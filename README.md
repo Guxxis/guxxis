@@ -7,9 +7,6 @@
 </div>
 
 <h2 align="left">Stacks</h2>
-
-<h3 align="left">Front-end</h3>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="8" />
@@ -20,20 +17,11 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-
-
-<h3 align="left">Back-end</h3>
-
-<div align="left">
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-<h3 align="left">Tools</h3>
-
-<div align="left">
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
