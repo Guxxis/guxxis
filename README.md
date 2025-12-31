@@ -7,40 +7,31 @@
 </div>
 
 <h2 align="left">Stacks</h2>
+
+<h3 align="left">Back-end</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java&perline=1" width="100"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,py,spring,postgres,mongodb,mysql&perline=4"/>
 </div>
 
-<h2 align="left">Contacts</h2>
-
+<h3 align="left">Front-end</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavogoncalves9914587/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="guxxis.work@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=angular&perline=1" width="100"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,figma&perline=3"/>
 </div>
 
+<h3 align="left">QA</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cypress&perline=1" width="100"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postman&perline=6"/>
+</div>
+
+<h3 align="left">Infra & Devops</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws&perline=1" width="100"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ubuntu,nginx,cloudflare&perline=3"/>
+</div>
