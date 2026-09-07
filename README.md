@@ -1,37 +1,46 @@
-<h1 align="left">Opa!! sou o Gustavo Gonçalves</h1>
+<h1 align="left">Opa!! Sou o Gustavo Gonçalves 👋</h1>
 
-<p align="left">Desenvolvedor Full Stack entusiasta na cultura Devops</p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guxxis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guxxis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+    Curioso por natureza e DevOps Engineer por consequência. Gosto de entender sistemas, automatizar processos, resolver
+    problemas e transformar ideias em coisas que realmente funcionam.
+</p>
 
 <h2 align="left">Stacks</h2>
 
-<h3 align="left">Back-end</h3>
+<h3 align="left">Devops & Plataform Engineer</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java&perline=1" width="100"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs,php,py,spring,postgres,mongodb,mysql&perline=4"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/aws.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/digital-ocean.webp" alt="" width="50" height="50">
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kubernetes.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/docker.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/terraform.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ansible.webp" alt="" width="50" height="50">
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/infisical.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/jenkins.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/grafana.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/zabbix.webp" alt="" width="50" height="50">
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/ubuntu.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apache.webp" alt="" width="50" height="50">
+</div>
 </div>
 
-<h3 align="left">Front-end</h3>
+<h3 align="left">Fullstack Developer</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular&perline=1" width="100"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,figma&perline=3"/>
-</div>
-
-<h3 align="left">QA</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cypress&perline=1" width="100"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman&perline=6"/>
-</div>
-
-<h3 align="left">Infra & Devops</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws&perline=1" width="100"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ubuntu,nginx,cloudflare&perline=3"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/css3.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/html5.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/javascript.webp" alt="" width="50" height="50">
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/typescript.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tailwind.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/angular.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" alt="" width="50" height="50">
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgresql.webp" alt="" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mongodb.webp" alt="MongoDB" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/redis.webp" alt="MongoDB" width="50" height="50">
+    <img src="https://icon.icepanel.io/Technology/svg/Playwrite.svg" alt="" width="50" height="50">
 </div>
